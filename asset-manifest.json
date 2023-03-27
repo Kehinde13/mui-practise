@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mui-practise/static/css/main.827893e8.css",
+    "main.js": "/mui-practise/static/js/main.7511b558.js",
+    "static/media/noodles.jpg": "/mui-practise/static/media/noodles.c883610038339e85877e.jpg",
+    "static/media/OG.jpg": "/mui-practise/static/media/OG.7cb53ba9f22e09c46151.jpg",
+    "index.html": "/mui-practise/index.html",
+    "main.827893e8.css.map": "/mui-practise/static/css/main.827893e8.css.map",
+    "main.7511b558.js.map": "/mui-practise/static/js/main.7511b558.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827893e8.css",
+    "static/js/main.7511b558.js"
+  ]
+}
